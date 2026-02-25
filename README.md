@@ -1,7 +1,8 @@
 # ESP32-Arduino-Weather-Station
 A dual-processor weather and air quality monitoring system built with Arduino Mega 2560 and ESP32-CAM. The system collects environmental data and provides real-time updates through a Telegram Bot and a Web Dashboard.
 
-
+## Project overview:
+![Wiring Diagram](images/wiring_diagram.jpg)
 
 ## Features:
 - Real-time Monitoring: Tracks temperature, rain presence, and air quality (pollution levels).
