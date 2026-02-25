@@ -1,6 +1,6 @@
 /*
   Environmental Monitoring Station - Arduino Mega 
-  Description:
+  
   This module handles sensor data collection and transmits it to the ESP32 via UART.
 
   Author: Raluca Palamiuc
